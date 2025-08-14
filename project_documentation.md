@@ -1,6 +1,6 @@
 # AI Gamification Projects
 
-## Project 1 – AI Gamification Tool
+## Tala
 
 **Goal:** Build an AI‑powered gamification tool that uses a cleaned dataset to recommend or generate engaging gamified activities (e.g., challenges, badges) for a particular domain. Students will work from dataset preparation through to an operational tool.
 
